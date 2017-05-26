@@ -14,7 +14,7 @@ var _link2 = _interopRequireDefault(_link);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = "C:\\Users\\Johnny\\Desktop\\my-site\\components\\Header.js";
+var _jsxFileName = "C:\\Users\\Johnny\\Desktop\\blog-site\\components\\Header.js";
 
 
 var linkStyle = {

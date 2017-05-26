@@ -14,7 +14,7 @@ var _Header2 = _interopRequireDefault(_Header);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = 'C:\\Users\\Johnny\\Desktop\\my-site\\components\\Layout.js';
+var _jsxFileName = 'C:\\Users\\Johnny\\Desktop\\blog-site\\components\\Layout.js';
 
 
 var layoutStyle = {
